@@ -20,7 +20,7 @@ CookBook is a web app that allows users to explore, search, and save recipes usi
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Cook-book.git
+   https://github.com/jayngl/Cook-book.git
    ```
 2. Navigate to the project directory:
    ```sh
