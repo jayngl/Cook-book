@@ -2,6 +2,9 @@
 
 CookBook is a web app that allows users to explore, search, and save recipes using the Spoonacular REST API. It features a liked recipe section with local storage for easy access to favorite dishes.
 
+![cook-book](https://github.com/user-attachments/assets/1d027e3f-7078-48a0-a864-f3815feb2bfc)
+
+
 ## Features
 
 - 🔍 **Search Recipes** – Find delicious recipes based on keywords.
